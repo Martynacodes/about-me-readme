@@ -24,7 +24,7 @@ I work as a Frontend & CRO Engineer for [Acronym](https://www.acronym.com/).
 ## What do I like about web development?
 
 * :bathtub: Clean Code
-* :accessibility:: UX
+* 🥇 UX
 * :notebook_with_decorative_cover: Design Patterns
 * :zap: Performance
 
