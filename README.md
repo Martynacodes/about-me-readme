@@ -32,7 +32,7 @@ Web developer who focuses on user-centric UX and fast performance. Worked for an
 * :notebook_with_decorative_cover: Design Patterns
 * 🚀 Performance
 
-## :mailbox: Get in touch 
+## :mailbox: Let's talk
 
 * LinkedIn: <https://www.linkedin.com/in/martyna-codes/>
 
