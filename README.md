@@ -2,7 +2,7 @@
 
 ## :wave: Hello!
 
-Web developer who focuses on user-centric UX and fast performance. Worked for an award-winning agency based in NYC as well as for individual clients and small businesses. Always seeking to create innovative apps with the newest technologies. Enjoys problem solving and finding optimal solutions for the best outcome :green_heart: 
+Web developer who focuses on user-centric UX and fast performance. Worked for an award-winning agency based in NYC as well as for individual clients and small businesses. Always seeking to create innovative apps with the newest technologies. Enjoys problem solving and finding optimal solutions for the tricky coding questions :green_heart: 
 
 ## 🛠️ Technologies & Tools
 
