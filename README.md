@@ -36,5 +36,4 @@ Web developer who focuses on user-centric UX and fast performance. Worked for an
 
 * LinkedIn: <https://www.linkedin.com/in/martyna-codes/>
 
-
 ---
